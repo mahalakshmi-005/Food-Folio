@@ -111,7 +111,7 @@ npm run build
 
 ## 👩‍💻 Author
 
-**Mahalakshmi K**
+**Mahalakshmi Kannan**
 
 🔗 https://www.linkedin.com/in/maha-lakshmi-k-96682a36b/
 

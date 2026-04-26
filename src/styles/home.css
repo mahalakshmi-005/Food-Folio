@@ -1810,3 +1810,6 @@ body {
         align-items: flex-start;
     }
 }
+css: {
+    transformer: 'postcss'
+}

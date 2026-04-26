@@ -1738,37 +1738,6 @@ body {
     background: #22c55e !important;
 }
 
-
-
-  /* ── ANIMATIONS (FIXED FOR VERCEL) ── */
-
-@keyframes floatUpDown {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0); }
-}
-
-@keyframes scrollPulse {
-  0% { opacity: 1; transform: scaleY(1); }
-  50% { opacity: 0.3; transform: scaleY(0.5); }
-  100% { opacity: 1; transform: scaleY(1); }
-}
-
-@keyframes floatIn {
-  0% { opacity: 0; transform: translateX(-50%) translateY(20px); }
-  100% { opacity: 1; transform: translateX(-50%) translateY(0); }
-}
-
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-@keyframes slideIn {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(0); }
-}
-
 /* ── RESPONSIVE ── */
 @media (max-width: 900px) {
     .hero-content {
